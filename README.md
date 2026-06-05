@@ -148,3 +148,5 @@ Aspiring Software & Embedded Systems Engineer
 This project is open-source and available for educational and learning purposes.
 
 <img width="666" height="791" alt="image" src="https://github.com/user-attachments/assets/f1f865be-939c-4fa8-8b4c-e02108a4452a" />
+
+<img width="710" height="795" alt="image" src="https://github.com/user-attachments/assets/377b96c7-21b9-4302-ac8c-99634541f426" />
